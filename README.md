@@ -1,1 +1,1 @@
-# Scrip to edit a CSV file using Pandas library
+Scrip to edit a CSV file using Pandas library
